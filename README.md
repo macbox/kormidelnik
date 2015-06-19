@@ -1,0 +1,2 @@
+# kormidelnik
+vytvorenie niecoho noveho
